@@ -49,6 +49,7 @@ I am always open to academic collaboration, research discussions, and interestin
 - China National Scholarship
 - Bronze Medal of the 2022 ICPC Asia Nanjing Regional Contest
 - The First Prize Scholarship, Beijing University of Technology
+
 ---
 
 Thanks for visiting my website ✨
