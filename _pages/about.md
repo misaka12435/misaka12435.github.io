@@ -45,12 +45,10 @@ I am always open to academic collaboration, research discussions, and interestin
 
 ## Awards and Honors 🏆
 
-- **[Year]** — **[Award / Honor Name]**, [Organization / Institution]
-- **[Year]** — **[Award / Honor Name]**, [Organization / Institution]
-- **[Year]** — **[Award / Honor Name]**, [Organization / Institution]
-- **[Year]** — **[Award / Honor Name]**, [Organization / Institution]
-- **[Year]** — **[Award / Honor Name]**, [Organization / Institution]
-
+- First Prize of the Chinese Mathematics Competitions for College Students
+- China National Scholarship
+- Bronze Medal of the 2022 ICPC Asia Nanjing Regional Contest
+- The First Prize Scholarship, Beijing University of Technology
 ---
 
 Thanks for visiting my website ✨
